@@ -10,9 +10,9 @@
 		"response":["There's nothing here, yet.", "herokucdn.com/error-pages/no-such-app.html", "<title>No such app</title>"]
 	},
 	{
-		"name":"unbounce",
-		"cname":["unbouncepages.com"],
-		"response":["The requested URL / was not found on this server.", "The requested URL was not found on this server"]
+		"name":"strikingly",
+		"cname":["s.strikinglydns.com"],
+		"response":["<p>But if you're looking to build your own website, <br/>"]
 	},
 	{
 		"name":"tumblr",
@@ -30,6 +30,11 @@
 		"response":["You've Discovered A Missing Link. Our Apologies!"]
 	},
 	{
+		"name":"smugmug",
+		"cname":["dq33tynpwunh.cloudfront.net","www.smugmug.com.edgesuite.net","domains.smugmug.com"],
+		"response":["Page Not Found"]
+	},
+	{
 		"name":"tictail",
 		"cname":["tictail.com", "domains.tictail.com"],
 		"response":["Building a brand of your own?", "to target URL: <a href=\"https://tictail.com", "Start selling on Tictail."]
@@ -43,6 +48,11 @@
 		"name":"cargocollective",
 		"cname":["cargocollective.com"],
 		"response":["<title>404 &mdash; File not found</title>"]
+	},
+	{
+		"name":"statuspage",
+		"cname":["statuspage.io"],
+		"response":["You are being <a href=\"https://www.statuspage.io\">redirected"]
 	},
 	{
 		"name":"amazonaws",
