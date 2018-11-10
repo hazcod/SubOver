@@ -31,7 +31,7 @@
 	},
 	{
 		"name":"smugmug",
-		"cname":["dq33tynpwunh.cloudfront.net","www.smugmug.com.edgesuite.net","domains.smugmug.com"],
+		"cname":["dq33tynpwunh.cloudfront.net","www.smugmug.com.edgesuite.net","domains.smugmug.com","smugmug.com"],
 		"response":["Page Not Found"]
 	},
 	{
@@ -50,9 +50,9 @@
 		"response":["<title>404 &mdash; File not found</title>"]
 	},
 	{
-		"name":"statuspage",
-		"cname":["statuspage.io"],
-		"response":["You are being <a href=\"https://www.statuspage.io\">redirected"]
+		"name":"uptime",
+		"cname":["stats.uptimerobot.com"],
+		"response":["404"]
 	},
 	{
 		"name":"amazonaws",
@@ -157,7 +157,7 @@
 	{
 
 		"name":"readme",
-		"cname":["ssl.readmessl.com"],
+		"cname":["ssl.readmessl.com", "readme.io"],
 		"response":["Project doesnt exist... yet!"]
 	},
 	{
