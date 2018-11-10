@@ -217,7 +217,7 @@
 	},
 	{
 		"name":"compaignmonitor",
-		"cname":["createsend.com"],
+		"cname":["cname.createsend.com", "createsend.com"],
 		"response":["Double check the URL or <a href=\"mailto:help@createsend.com"]
 	},
 	{
