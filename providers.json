@@ -1,8 +1,8 @@
 [
 	{
 		"name":"github", 
-		"cname":["github.io"], 
-		"response":["There isn't a GitHub Pages site here.", "For root URLs (like http://example.com/) you must provide an index.html file"]
+		"cname":["github.io", "github.map.fastly.net"], 
+		"response":["There isn't a GitHub Pages site here."]
 	},
 	{
 		"name":"heroku", 
@@ -30,11 +30,6 @@
 		"response":["You've Discovered A Missing Link. Our Apologies!"]
 	},
 	{
-		"name":"desk",
-		"cname":["desk.com"],
-		"response":["Please try again or try Desk.com free for 14 days.", "Sorry, We Couldn't Find That Page"]
-	},
-	{
 		"name":"tictail",
 		"cname":["tictail.com", "domains.tictail.com"],
 		"response":["Building a brand of your own?", "to target URL: <a href=\"https://tictail.com", "Start selling on Tictail."]
@@ -47,12 +42,7 @@
 	{
 		"name":"cargocollective",
 		"cname":["cargocollective.com"],
-		"response":["404 Not Found"]
-	},
-	{
-		"name":"statuspage",
-		"cname":["statuspage.io"],
-		"response":["Better Status Communication", "You are being <a href=\"https://www.statuspage.io\">redirected"]
+		"response":["<title>404 &mdash; File not found</title>"]
 	},
 	{
 		"name":"amazonaws",
@@ -155,9 +145,10 @@
 		"response":["data-html-name"]
 	},
 	{
-		"name":"mashery",
-		"cname":["mashery.com"],
-		"response":["Unrecognized domain <strong>"]
+
+		"name":"readme",
+		"cname":["ssl.readmessl.com"],
+		"response":["Project doesnt exist... yet!"]
 	},
 	{
 		"name":"intercom",
